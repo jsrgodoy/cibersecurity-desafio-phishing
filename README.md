@@ -14,7 +14,7 @@
 - Vetor de ataque: ``` 2) Web Site Attack Vectors ```
 - Método de ataque: ``` 3) Credential Harvester Attack Method ```
 - Método de ataque: ``` 2) Site Cloner ```
-- set:webattack> IP address for the POST back in Harvester/Tabnabbing [seu Ip aparece aqui]: ``` Tecle Enter ```
+- set:webattack> IP address for the POST back in Harvester/Tabnabbing [ seu.Ip.aparece.aqui ]: ``` Tecle Enter ```
 - URL para clone: http://www.facebook.com
 
 ### Resutados
