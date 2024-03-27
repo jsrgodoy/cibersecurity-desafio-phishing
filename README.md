@@ -20,3 +20,5 @@
 ### Resutados
 
 ![Alt text](./teste1.png "Teste 1")
+
+![Alt text](./teste2.png "Teste 2")
