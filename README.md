@@ -19,4 +19,4 @@
 
 ### Resutados
 
-![Alt text](./captura.png "Teste 1")
+![Alt text](./teste1.png "Teste 1")
